@@ -10,7 +10,7 @@ import com.ksma.moviedb.ui.movielist.MovieListFragment
 import com.ksma.moviedb.ui.movielist.MovieListViewModel
 import com.ksma.moviedb.utils.MovieType
 import dagger.hilt.android.AndroidEntryPoint
-
+//REF: https://github.com/OsmarICancino/MovieHunter
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
 
